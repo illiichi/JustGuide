@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JustGuide</string>
+    <string name="apache_license_text">
+        google / material design icons - apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)
+    </string>
+</resources>
